@@ -1,0 +1,67 @@
+{
+  "title":"Qual jogador do Real Madrid você seria?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual sua principal característica??",
+      "options":[
+        {"id": 1, "name":"Velocidade", "alias":"A"},
+        {"id": 2, "name":"Drible", "alias":"C"},
+        {"id": 3, "name":"Força física", "alias":"B"},
+        {"id": 4, "name":"Defesa", "alias":"D"},
+        {"id": 5, "name":"Altura", "alias":"E"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Você se identifica mais com um jogador?",
+      "options":[
+        {"id": 1, "name":"Marrento", "alias":"A"},
+        {"id": 2, "name":"Mala", "alias":"B"},
+        {"id": 3, "name":"Humilde", "alias":"C"},
+        {"id": 4, "name":"Altruísta", "alias":"D"},
+        {"id": 5, "name":"Louco", "alias":"E"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Você prefere:",
+      "options":[
+        {"id": 1, "name":"Criar jogadas", "alias":"D"},
+        {"id": 2, "name":"Fazer o gol", "alias":"A"},
+        {"id": 3, "name":"Dar a assistência", "alias":"C"},
+        {"id": 4, "name":"Um drible desconcertante", "alias":"B"},
+        {"id": 5, "name":"Desarmar o adversário", "alias":"E"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o seu maior objetivo?",
+      "options":[
+        {"id": 1, "name":"Ser campeão, independente de protagonismo", "alias":"C"},
+        {"id": 2, "name":"Ser a estrela", "alias":"B"},
+        {"id": 3, "name":"Ser decisivo", "alias":"A"},
+        {"id": 4, "name":"Correr pelo time", "alias":"E"},
+        {"id": 5, "name":"Ser participativo, independente da posição", "alias":"D"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual o seu apelido?",
+      "options":[
+        {"id": 1, "name":"Tartaruga Ninja", "alias":"B"},
+        {"id": 2, "name":"Rayo", "alias":"C"},
+        {"id": 3, "name":"O louco", "alias":"E"},
+        {"id": 4, "name":"Malvadeza", "alias":"A"},
+        {"id": 5, "name":"Falcão", "alias":"D"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Vini Jr",
+    "B": "Mbappé",
+    "C": "Rodrygo",
+    "D": "Valverde",
+    "E": "Rüdiger"
+  }
+}
