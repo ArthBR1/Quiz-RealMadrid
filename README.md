@@ -1,27 +1,24 @@
-# ProjetoBuzzfeed
+# Quiz BuzzFeed Clone - "Qual Jogador do Real Madrid Você Seria?"
+Este projeto é um clone do BuzzFeed desenvolvido em Angular, que apresenta um quiz interativo para descobrir qual jogador do Real Madrid combina mais com a personalidade do usuário.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+# Funcionalidades
+- Questionário dinâmico com múltiplas escolhas
 
-## Development server
+- Sistema de pontuação para determinar o resultado
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Exibição do jogador correspondente
 
-## Code scaffolding
+- Design responsivo para mobile e desktop
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Tecnologias Utilizadas
+- Angular
 
-## Build
+- TypeScript
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- CSS
 
-## Running unit tests
+- HTML
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Referências bibliográficas
+https://www.buzzfeed.com
+https://github.com/felipeAguiarCode/angular-buzzfeed-quizz-clone
