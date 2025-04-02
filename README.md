@@ -21,4 +21,5 @@ Este projeto é um clone do BuzzFeed desenvolvido em Angular, que apresenta um q
 
 # Referências bibliográficas
 https://www.buzzfeed.com
+
 https://github.com/felipeAguiarCode/angular-buzzfeed-quizz-clone
